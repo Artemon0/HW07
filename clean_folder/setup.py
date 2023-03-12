@@ -7,5 +7,5 @@ setup(
     author_email='artemon888.com@gmail.com',
     url='https://github.com/Artemon0/HW07'
     # command_packages=['clean_folder = D:\\Python_projects\\HW\\HW6\\sort.py']
-    command_packages=
+    command_packages=['clean_folder = sort.py']
 )
